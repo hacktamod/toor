@@ -1,0 +1,2 @@
+# toor
+install tor
